@@ -19,8 +19,8 @@ My journey learning Data Structures and Algorithms using Java. This repository i
 - [Binary Search Notes](./binary-search/BinarySearch_Notes.md) 
 
 ### ✅ Sorting
-- [Bubble Sort (Code)](./Sorting/BubbleSort.java)
-- [Bubble Sort (Notes)](./Sorting/BubbleSort_Notes.md)
+- [Bubble Sort (Code)](./Sorting/code/BubbleSort.java)
+- [Bubble Sort (Notes)](./Sorting/notes/BubbleSort_Notes.md)
 
 
 
