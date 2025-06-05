@@ -7,16 +7,16 @@ My journey learning Data Structures and Algorithms using Java. This repository i
 ## 📁 Structure
 
 ### ✅ Arrays
-- [ArrayMax.java](./arrays/ArrayMax.java)
-- [Arrays Notes](./arrays/Arrays_Notes.md) 
+- [ArrayMax.java](./Arrays/code/ArrayMax.java)
+- [Arrays Notes](./Arrays/notes/Arrays_Notes.md) 
 
 ### ✅ Linear Search
-- [LinearSearch.java](./linear-search/LinearSearch.java)
-- [Linear Search Notes](./linear-search/LinearSearch_Notes.md) 
+- [LinearSearch.java](./LinearSearch/code/LinearSearch.java)
+- [Linear Search Notes](./LinearSearch/notes/linear-search.md) 
 
 ### ✅ Binary Search
-- [BinarySearch.java](./binary-search/BinarySearch.java)
-- [Binary Search Notes](./binary-search/BinarySearch_Notes.md) 
+- [BinarySearch.java](./BinarySearch/code/BinarySearch.java)
+- [Binary Search Notes](./BinarySearch/notes/BinarySearch.md) 
 
 ### ✅ Sorting
 - [Bubble Sort (Code)](./Sorting/code/BubbleSort.java)
