@@ -7,7 +7,7 @@ My journey learning Data Structures and Algorithms using Java. This repository i
 ## 📁 Structure
 
 ### ✅ Arrays
-- [ArrayMax.java](./Arrays/code/ArrayMax.java)
+- [code](./Arrays/code/)
 - [Arrays Notes](./Arrays/notes/Arrays_Notes.md) 
 
 ### ✅ Linear Search
