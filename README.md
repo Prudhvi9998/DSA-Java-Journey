@@ -1,28 +1,41 @@
-# DSA-Java-Journey
-My journey learning Data Structures and Algorithms with Java. Includes code, notes, and explanations.
+# 📚 DSA-Java-Journey
 
-## Structure
-- **Arrays**: [Linear Search](Arrays/notes/linear-search.md), [more to come]
-- **Strings**: [coming soon]
-- **LinkedLists**: [coming soon]
+My journey learning Data Structures and Algorithms using Java. This repository includes structured code, notes, and detailed explanations to document my learning process.
 
-## Goals
-- Master DSA concepts.
-- Build a portfolio for IT/AI/data roles.
-- Share progress on LinkedIn.
+---
 
-Follow my journey on [LinkedIn](https://www.linkedin.com/in/u-prudhvi-chowdary)!# DSA-Java-Journey
-My journey learning Data Structures and Algorithms with Java. Includes code and notes.
+## 📁 Structure
 
-## Structure
-- **arrays**: [Arrays Notes](arrays/notes/arrays.md), [ArrayMax](arrays/code/ArrayMax.java)
-- **linear-search**: [coming soon]
-- **binary-search**: [coming soon]
-- More topics: Sorting, Strings, Linked Lists, etc.
+### ✅ Arrays
+- [ArrayMax.java](./arrays/ArrayMax.java)
+- [Arrays Notes](./arrays/Arrays_Notes.md) 
 
-## Goals
-- Master DSA concepts.
-- Build a portfolio for IT/AI/data roles.
-- Share progress on LinkedIn.
+### ✅ Linear Search
+- [LinearSearch.java](./linear-search/LinearSearch.java)
+- [Linear Search Notes](./linear-search/LinearSearch_Notes.md) 
 
-Follow my journey on [LinkedIn](https://www.linkedin.com/in/u-prudhvi-chowdary)!
+### ✅ Binary Search
+- [BinarySearch.java](./binary-search/BinarySearch.java)
+- [Binary Search Notes](./binary-search/BinarySearch_Notes.md) 
+
+### ✅ Sorting
+- [Bubble Sort (Code)](./Sorting/BubbleSort.java)
+- [Bubble Sort (Notes)](./Sorting/BubbleSort_Notes.md)
+
+
+
+---
+
+## 🎯 Goals
+
+- ✅ Master core DSA concepts step-by-step.
+- ✅ Build a strong, clean GitHub portfolio for IT, AI, and Data roles.
+- ✅ Write notes and explanations to reinforce learning.
+- ✅ Share progress regularly on LinkedIn.
+
+---
+
+📌 **Follow my journey on [LinkedIn](https://www.linkedin.com/in/u-prudhvi-chowdary/)**  
+
+
+
