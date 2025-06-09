@@ -21,7 +21,10 @@ My journey learning Data Structures and Algorithms using Java. This repository i
 ### ✅ Sorting
 - [Bubble Sort (Code)](./Sorting/code/BubbleSort.java)
 - [Bubble Sort (Notes)](./Sorting/notes/BubbleSort_Notes.md)
-
+- [SelectionSort.java](Sorting/code/SelectionSort.java)
+- [Selection Sort Notes](Sorting/notes/SelectionSort_Notes.md)
+- [InsertionSort.java](Sorting/code/InsertionSort.java)
+- [Insertion Sort Notes](Sorting/notes/InsertionSort_Notes.md)
 
 
 ---
